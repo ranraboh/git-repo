@@ -1,0 +1,9 @@
+<html>
+	<head>
+		<title>Basic Website</title>
+	</head>
+	<body>
+		<h1>Basic Website</h1>
+		<h2>This WEBSITE is basic</h2>
+	</body>
+<html>
